@@ -3,6 +3,8 @@ Graph_2014
 
 Implementation of a adjacency list graph in C++ with shortest paths (released to fellow classmates for study purposes)
 
+*UPDATE: Sunday Novemeber 30th, to include Prims algorithm for minimum spanning tree*
+
 Graph Implementation
 Tanner Young-Schultz
 
